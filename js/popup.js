@@ -1,0 +1,1 @@
+window.open("popup.html", "swID", "width=320,height=240");
